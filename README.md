@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alarape Temitope
+- 👋 Hi, I’m Alarape Barakat
 - 👀 I’m interested in data analytics and project management
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on data analysis and fraud detection projects
